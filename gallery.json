@@ -1,6 +1,16 @@
 {
   "entries": [
     {
+      "id": "20260507184312-buddy-holly-weezer",
+      "title": "Buddy Holly - Weezer",
+      "assetPath": "./media/20260507184312-buddy-holly-weezer.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-07T18:43:12.189Z",
+      "mp4Path": "./media/20260507184312-buddy-holly-weezer.mp4",
+      "webmPath": "./media/20260507184312-buddy-holly-weezer.webm",
+      "pagePath": "./items/20260507184312-buddy-holly-weezer/"
+    },
+    {
       "id": "20260507141942-wyatt-wrestle",
       "title": "Wyatt_Wrestle",
       "assetPath": "./media/20260507141942-wyatt-wrestle.gif",
