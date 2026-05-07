@@ -1,6 +1,16 @@
 {
   "entries": [
     {
+      "id": "20260507113427-buddy-holly-weezer",
+      "title": "Buddy Holly - Weezer",
+      "assetPath": "./media/20260507113427-buddy-holly-weezer.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-07T11:34:27.792Z",
+      "mp4Path": "./media/20260507113427-buddy-holly-weezer.mp4",
+      "webmPath": "./media/20260507113427-buddy-holly-weezer.webm",
+      "pagePath": "./items/20260507113427-buddy-holly-weezer/"
+    },
+    {
       "id": "20260507014809-buddy-holly-weezer",
       "title": "Buddy Holly - Weezer",
       "assetPath": "./media/20260507014809-buddy-holly-weezer.gif",
