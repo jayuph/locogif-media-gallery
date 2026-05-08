@@ -1,6 +1,35 @@
 {
   "entries": [
     {
+      "id": "20260508000558-i-like-u",
+      "title": "I like U",
+      "description": "From Weezer's Buddy Holly video. Guy in plaid swoons.",
+      "assetPath": "./media/20260508000558-i-like-u.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-08T00:05:58.805Z",
+      "mp4Path": "./media/20260508000558-i-like-u.mp4",
+      "webmPath": "./media/20260508000558-i-like-u.webm",
+      "pagePath": "./items/20260508000558-i-like-u/",
+      "captions": [
+        {
+          "id": "text-gvzr5pso",
+          "name": "I like U",
+          "text": "I like U",
+          "startSeconds": 165.91666666666666,
+          "endSeconds": 167.16666666666666,
+          "fontKey": "anton",
+          "textColor": "#ffffff",
+          "outlineColor": "#000000",
+          "verticalAlign": "top",
+          "horizontalAlign": "middle",
+          "manualPositioning": true,
+          "manualX": 161,
+          "manualY": 305,
+          "animation": "none"
+        }
+      ]
+    },
+    {
       "id": "20260507184312-buddy-holly-weezer",
       "title": "Buddy Holly - Weezer",
       "assetPath": "./media/20260507184312-buddy-holly-weezer.gif",
