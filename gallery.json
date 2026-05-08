@@ -1,6 +1,35 @@
 {
   "entries": [
     {
+      "id": "20260508154357-groovin",
+      "title": "Groovin'",
+      "description": "Groovin' gif from Buddy Holly by Weezer",
+      "assetPath": "./media/20260508154357-groovin.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-08T15:43:57.194Z",
+      "mp4Path": "./media/20260508154357-groovin.mp4",
+      "webmPath": "./media/20260508154357-groovin.webm",
+      "pagePath": "./items/20260508154357-groovin/",
+      "captions": [
+        {
+          "id": "text-vf09bj4o",
+          "name": "Groovin'",
+          "text": "Groovin'",
+          "startSeconds": 196.41666666666666,
+          "endSeconds": 197.91666666666666,
+          "fontKey": "anton",
+          "textColor": "#ffffff",
+          "outlineColor": "#000000",
+          "verticalAlign": "top",
+          "horizontalAlign": "middle",
+          "manualPositioning": true,
+          "manualX": 145,
+          "manualY": 307,
+          "animation": "none"
+        }
+      ]
+    },
+    {
       "id": "20260508152558-happy-ending",
       "title": "Happy Ending",
       "assetPath": "./media/20260508152558-happy-ending.gif",
