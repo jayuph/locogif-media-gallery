@@ -1,6 +1,17 @@
 {
   "entries": [
     {
+      "id": "20260508152558-happy-ending",
+      "title": "Happy Ending",
+      "assetPath": "./media/20260508152558-happy-ending.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-08T15:25:58.491Z",
+      "mp4Path": "./media/20260508152558-happy-ending.mp4",
+      "webmPath": "./media/20260508152558-happy-ending.webm",
+      "pagePath": "./items/20260508152558-happy-ending/",
+      "captions": []
+    },
+    {
       "id": "20260508000558-i-like-u",
       "title": "I like U",
       "description": "From Weezer's Buddy Holly video. Guy in plaid swoons.",
