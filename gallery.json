@@ -1,6 +1,35 @@
 {
   "entries": [
     {
+      "id": "20260510150023-yep-yep-yep",
+      "title": "YEP YEP YEP",
+      "description": "Scene from end of Buddy Holly - Weezer video.",
+      "assetPath": "./media/20260510150023-yep-yep-yep.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-10T15:00:23.295Z",
+      "mp4Path": "./media/20260510150023-yep-yep-yep.mp4",
+      "webmPath": "./media/20260510150023-yep-yep-yep.webm",
+      "pagePath": "./items/20260510150023-yep-yep-yep/",
+      "captions": [
+        {
+          "id": "text-ottfik38",
+          "name": "YEP YEP YEP",
+          "text": "YEP YEP YEP",
+          "startSeconds": 227.83333333333331,
+          "endSeconds": 241.116,
+          "fontKey": "anton",
+          "textColor": "#ffffff",
+          "outlineColor": "#000000",
+          "verticalAlign": "top",
+          "horizontalAlign": "middle",
+          "manualPositioning": true,
+          "manualX": 121,
+          "manualY": 304,
+          "animation": "none"
+        }
+      ]
+    },
+    {
       "id": "20260508154357-groovin",
       "title": "Groovin'",
       "description": "Groovin' gif from Buddy Holly by Weezer",
