@@ -1,6 +1,35 @@
 {
   "entries": [
     {
+      "id": "20260511155202-dance-like-the-fonz",
+      "title": "Dance like the Fonz",
+      "description": "Here is a demo description.",
+      "assetPath": "./media/20260511155202-dance-like-the-fonz.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-11T15:52:02.764Z",
+      "mp4Path": "./media/20260511155202-dance-like-the-fonz.mp4",
+      "webmPath": "./media/20260511155202-dance-like-the-fonz.webm",
+      "pagePath": "./items/20260511155202-dance-like-the-fonz/",
+      "captions": [
+        {
+          "id": "text-ajhdvo57",
+          "name": "Dance",
+          "text": "Dance",
+          "startSeconds": 185.75,
+          "endSeconds": 188.75,
+          "fontKey": "anton",
+          "textColor": "#ffffff",
+          "outlineColor": "#000000",
+          "verticalAlign": "top",
+          "horizontalAlign": "middle",
+          "manualPositioning": false,
+          "manualX": null,
+          "manualY": null,
+          "animation": "none"
+        }
+      ]
+    },
+    {
       "id": "20260511124926-blitz",
       "title": "Blitz",
       "description": "Just a note about it.",
