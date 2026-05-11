@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "id": "20260511161747-intro",
+      "title": "Intro",
+      "description": "this is it",
+      "assetPath": "./media/20260511161747-intro.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-11T16:17:47.770Z",
+      "mp4Path": "./media/20260511161747-intro.mp4",
+      "webmPath": "./media/20260511161747-intro.webm",
+      "pagePath": "./items/20260511161747-intro/",
+      "captions": []
+    },
+    {
       "id": "20260511155202-dance-like-the-fonz",
       "title": "Dance like the Fonz",
       "description": "Here is a demo description.",
