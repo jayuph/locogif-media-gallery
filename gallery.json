@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "id": "20260511124926-blitz",
+      "title": "Blitz",
+      "description": "Just a note about it.",
+      "assetPath": "./media/20260511124926-blitz.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-11T12:49:26.562Z",
+      "mp4Path": "./media/20260511124926-blitz.mp4",
+      "webmPath": "./media/20260511124926-blitz.webm",
+      "pagePath": "./items/20260511124926-blitz/",
+      "captions": []
+    },
+    {
       "id": "20260510150023-yep-yep-yep",
       "title": "YEP YEP YEP",
       "description": "Scene from end of Buddy Holly - Weezer video.",
