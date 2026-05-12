@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "id": "20260512141305-weezer-test",
+      "title": "Weezer test",
+      "description": "demo",
+      "assetPath": "./media/20260512141305-weezer-test.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-12T14:13:05.512Z",
+      "mp4Path": "./media/20260512141305-weezer-test.mp4",
+      "webmPath": "./media/20260512141305-weezer-test.webm",
+      "pagePath": "./items/20260512141305-weezer-test/",
+      "captions": []
+    },
+    {
       "id": "20260512140757-wrestling-again",
       "title": "Wrestling again",
       "description": "a demo description",
