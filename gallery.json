@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "id": "20260512171234-mobile-publish-again",
+      "title": "Mobile publish again",
+      "description": "test",
+      "assetPath": "./media/20260512171234-mobile-publish-again.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-12T17:12:34.132Z",
+      "mp4Path": "./media/20260512171234-mobile-publish-again.mp4",
+      "webmPath": "./media/20260512171234-mobile-publish-again.webm",
+      "pagePath": "./items/20260512171234-mobile-publish-again/",
+      "captions": []
+    },
+    {
       "id": "20260512170125-again-we-go",
       "title": "again we go",
       "description": "testing",
