@@ -1,6 +1,17 @@
 {
   "entries": [
     {
+      "id": "20260512160128-a-test-a-test-a-test",
+      "title": "A test a test a test",
+      "assetPath": "./media/20260512160128-a-test-a-test-a-test.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-12T16:01:28.043Z",
+      "mp4Path": "./media/20260512160128-a-test-a-test-a-test.mp4",
+      "webmPath": "./media/20260512160128-a-test-a-test-a-test.webm",
+      "pagePath": "./items/20260512160128-a-test-a-test-a-test/",
+      "captions": []
+    },
+    {
       "id": "20260512145557-weezer-band",
       "title": "weezer band",
       "description": "yes, a description",
