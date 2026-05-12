@@ -1,6 +1,35 @@
 {
   "entries": [
     {
+      "id": "20260512160511-wrestle-demo-again",
+      "title": "Wrestle demo again",
+      "description": "optional",
+      "assetPath": "./media/20260512160511-wrestle-demo-again.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-12T16:05:11.407Z",
+      "mp4Path": "./media/20260512160511-wrestle-demo-again.mp4",
+      "webmPath": "./media/20260512160511-wrestle-demo-again.webm",
+      "pagePath": "./items/20260512160511-wrestle-demo-again/",
+      "captions": [
+        {
+          "id": "text-cu1apvjb",
+          "name": "Nnn",
+          "text": "Nnn",
+          "startSeconds": 11.666666666666666,
+          "endSeconds": 14,
+          "fontKey": "anton",
+          "textColor": "#ffffff",
+          "outlineColor": "#000000",
+          "verticalAlign": "top",
+          "horizontalAlign": "middle",
+          "manualPositioning": false,
+          "manualX": null,
+          "manualY": null,
+          "animation": "none"
+        }
+      ]
+    },
+    {
       "id": "20260512160128-a-test-a-test-a-test",
       "title": "A test a test a test",
       "assetPath": "./media/20260512160128-a-test-a-test-a-test.gif",
