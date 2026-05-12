@@ -1,6 +1,35 @@
 {
   "entries": [
     {
+      "id": "20260512145557-weezer-band",
+      "title": "weezer band",
+      "description": "yes, a description",
+      "assetPath": "./media/20260512145557-weezer-band.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-12T14:55:57.634Z",
+      "mp4Path": "./media/20260512145557-weezer-band.mp4",
+      "webmPath": "./media/20260512145557-weezer-band.webm",
+      "pagePath": "./items/20260512145557-weezer-band/",
+      "captions": [
+        {
+          "id": "text-4eqp92qx",
+          "name": "weezer",
+          "text": "weezer",
+          "startSeconds": 36.916666666666664,
+          "endSeconds": 38.75,
+          "fontKey": "anton",
+          "textColor": "#ffffff",
+          "outlineColor": "#000000",
+          "verticalAlign": "top",
+          "horizontalAlign": "middle",
+          "manualPositioning": false,
+          "manualX": null,
+          "manualY": null,
+          "animation": "none"
+        }
+      ]
+    },
+    {
       "id": "20260512141305-weezer-test",
       "title": "Weezer test",
       "description": "demo",
