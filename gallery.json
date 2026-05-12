@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "id": "20260512140757-wrestling-again",
+      "title": "Wrestling again",
+      "description": "a demo description",
+      "assetPath": "./media/20260512140757-wrestling-again.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-12T14:07:57.912Z",
+      "mp4Path": "./media/20260512140757-wrestling-again.mp4",
+      "webmPath": "./media/20260512140757-wrestling-again.webm",
+      "pagePath": "./items/20260512140757-wrestling-again/",
+      "captions": []
+    },
+    {
       "id": "20260512123742-more-and-more-wrestling",
       "title": "More and more wrestling",
       "description": "yes, more",
