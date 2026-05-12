@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "id": "20260512170125-again-we-go",
+      "title": "again we go",
+      "description": "testing",
+      "assetPath": "./media/20260512170125-again-we-go.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-12T17:01:25.545Z",
+      "mp4Path": "./media/20260512170125-again-we-go.mp4",
+      "webmPath": "./media/20260512170125-again-we-go.webm",
+      "pagePath": "./items/20260512170125-again-we-go/",
+      "captions": []
+    },
+    {
       "id": "20260512160511-wrestle-demo-again",
       "title": "Wrestle demo again",
       "description": "optional",
