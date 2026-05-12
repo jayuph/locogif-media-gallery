@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "id": "20260512094039-wrestling-bit",
+      "title": "Wrestling bit",
+      "description": "just a demo",
+      "assetPath": "./media/20260512094039-wrestling-bit.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-12T09:40:39.720Z",
+      "mp4Path": "./media/20260512094039-wrestling-bit.mp4",
+      "webmPath": "./media/20260512094039-wrestling-bit.webm",
+      "pagePath": "./items/20260512094039-wrestling-bit/",
+      "captions": []
+    },
+    {
       "id": "20260511161747-intro",
       "title": "Intro",
       "description": "this is it",
