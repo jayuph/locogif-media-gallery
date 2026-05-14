@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "id": "20260514192820-test-it-out",
+      "title": "test it out",
+      "description": "go go go",
+      "assetPath": "./media/20260514192820-test-it-out.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-14T19:28:20.694Z",
+      "mp4Path": "./media/20260514192820-test-it-out.mp4",
+      "webmPath": "./media/20260514192820-test-it-out.webm",
+      "pagePath": "./items/20260514192820-test-it-out/",
+      "captions": []
+    },
+    {
       "id": "20260512171234-mobile-publish-again",
       "title": "Mobile publish again",
       "description": "test",
