@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "id": "20260515235013-deployed-test",
+      "title": "Deployed Test!",
+      "description": "a description",
+      "assetPath": "./media/20260515235013-deployed-test.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-15T23:50:13.897Z",
+      "mp4Path": "./media/20260515235013-deployed-test.mp4",
+      "webmPath": "./media/20260515235013-deployed-test.webm",
+      "pagePath": "./items/20260515235013-deployed-test/",
+      "captions": []
+    },
+    {
       "id": "20260514192820-test-it-out",
       "title": "test it out",
       "description": "go go go",
